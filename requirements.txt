@@ -1,0 +1,10 @@
+streamlit
+pandas
+requests
+bs4
+urllib
+time
+re
+plotly
+streamlit
+os
